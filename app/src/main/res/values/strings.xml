@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubRepositoryFinder</string>
+    <string name="error_msg">An error has occurred</string>
+    <string name="loading">Repos are loading</string>
+    <string name="loading_more">Loading more repos</string>
+    <string name="repository_details">Repository details:</string>
+    <string name="no_connection">You are not connected to Internet</string>
+    <string name="old_query">There is no new query</string>
+</resources>
